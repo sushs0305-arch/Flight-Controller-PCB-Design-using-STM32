@@ -66,13 +66,16 @@ The flight controller includes:
 # **Project Gallery**
 
 ## **Schematic Design**
-(Add schematic image here)
+(<img width="1107" height="783" alt="Screenshot 2026-05-20 222307" src="https://github.com/user-attachments/assets/f94f3944-339d-47b2-b023-3905d565661c" />
+)
 
 ## **PCB Layout**
-(Add PCB routing image here)
+(<img width="805" height="719" alt="Screenshot 2026-05-20 222340" src="https://github.com/user-attachments/assets/3a8763c1-ba04-4f4a-b875-d290f794c864" />
+)
 
 ## **3D PCB View**
-(Add 3D render image here)
+(<img width="1107" height="783" alt="Screenshot 2026-05-20 222307" src="https://github.com/user-attachments/assets/31a0567c-27b8-416c-9482-73de4571b17d" />
+)
 
 * * *
 
